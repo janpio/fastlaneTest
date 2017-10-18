@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sujan/fastlaneTest/platforms/android/build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.2.3/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7a1530ac850543228ac856fe951d258efe29f918">
+        <dex dex="/Users/sujan/fastlaneTest/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-6.2.3-debug_f0635eb276ce252fa8490e02bb71da4b6abce659.jar" />
+    </item>
+
+</items>
